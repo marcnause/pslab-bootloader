@@ -26,8 +26,7 @@ software stack under open source licenses:
 -   [Bootloader](https://github.com/fossasia/pslab-bootloader)
 -   [Firmware](https://github.com/fossasia/pslab-firmware)
 -   [Python library](https://github.com/fossasia/pslab-python)
--   [Graphical desktop application](https://github.com/fossasia/pslab-desktop)
--   [Android app](https://github.com/fossasia/pslab-android)
+-   [PSLab app](https://github.com/fossasia/pslab-app)
 
 ### Buy
 
